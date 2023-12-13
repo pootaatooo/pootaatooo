@@ -1,10 +1,6 @@
 <div align="center"> 
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=%2387CEEB&height=75&section=header&text=Pootaatooo&fontColor=%23000000&fontSize=35&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
-![header](https://capsule-render.vercel.app/api?type=slice&color=%23000000&height=75&section=header&text=Pootaatooo&fontColor=%2387CEEB&fontSize=35&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
-
-
-
   
 ####  :wave: Welcome my github profile !
 
@@ -37,9 +33,9 @@
 
 <div style="display: flex; justify-content: space-between;">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlgus0407" alt="Solved.ac rlgus0407">
-  <img src="https://github-readme-stats.vercel.app/api?username=pootaatooo&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
-</div>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pootaatooo&show_icons=true&theme=vue)
 
+</div>
 
 
 
