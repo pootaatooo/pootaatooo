@@ -35,7 +35,8 @@
 
 <div style="display: flex; justify-content: space-between;">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlgus0407" alt="Solved.ac rlgus0407">
-  <img src="https://github-readme-stats.vercel.app/api?username=pootaatooo&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pootaatooo&show_icons=true&theme=vue)
+
 </div>
 
 
