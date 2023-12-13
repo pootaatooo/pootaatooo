@@ -31,5 +31,6 @@
   <br/>
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlgus0407" alt="Solved.ac rlgus0407">
+
 [![GitHub followers](https://img.shields.io/github/followers/pootaatooo?style=social)](https://github.com/pootaatooo)
 
