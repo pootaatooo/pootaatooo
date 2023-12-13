@@ -1,9 +1,3 @@
-<div align="center">
-  [![Solved.ac rlgus0407](https://raw.githubusercontent.com/rlgus0407/rlgus0407/main/solvedac_badge_mini.svg)](https://solved.ac/rlgus0407)
-</div>
-
+[![Solved.ac rlgus0407](http://mazassumnida.wtf/api/mini/generate_badge?boj=rlgus0407)](https://solved.ac/rlgus0407)
 <br/>
-
-<div align="center">
-  [![Solved.ac rlgus0407](https://raw.githubusercontent.com/rlgus0407/rlgus0407/main/solvedac_badge_v2.svg)](https://solved.ac/rlgus0407)
-</div>
+[![Solved.ac rlgus0407](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlgus0407)](https://solved.ac/rlgus0407)
