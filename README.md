@@ -19,20 +19,11 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
  
    <br/>
-   <br/>
  
 #### :pencil2: Study log
  
   <br/>
   
-</div>
-
-  <br/>
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlgus0407" alt="Solved.ac rlgus0407">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pootaatooo&show_icons=true&theme=vue)
-
 </div>
 
 
