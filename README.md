@@ -8,6 +8,7 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpootaatooo&count_bg=%2368C6AF&title_bg=%2378A9CA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+[![GitHub followers](https://img.shields.io/github/followers/pootaatooo?style=social)](https://github.com/pootaatooo)
 
   <br/>
   <br/>
@@ -32,5 +33,7 @@
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlgus0407" alt="Solved.ac rlgus0407">
 
-[![GitHub followers](https://img.shields.io/github/followers/pootaatooo?style=social)](https://github.com/pootaatooo)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pootaatooo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
