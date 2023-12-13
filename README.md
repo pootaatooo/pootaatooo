@@ -22,8 +22,11 @@
  
   <br/>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pootaatooo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=pootaatooo&color=dark)](https://velog.io/@pootaatooo)
-
 </div>
+
+
+<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=rlgus0407" alt="Solved.ac rlgus0407">
+
+<br/>
+
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlgus0407" alt="Solved.ac rlgus0407">
